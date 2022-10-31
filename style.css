@@ -233,7 +233,8 @@ margin: 0 20px 20px 0;
 }
 
 .itens::before {
-	content: "🟊";
+	content: "★";
+	margin-right: 5px;
 }
 
 .imagem-beneficios {

@@ -193,11 +193,6 @@ float: left;
 margin: 0 20px 20px 0;
 }
 
-main {
-	margin: 0 auto;
-	width: 940px;
-}
-
 .mapa {
 	padding: 3em 0;
 	background: linear-gradient(#FEFEFE, #888888);
